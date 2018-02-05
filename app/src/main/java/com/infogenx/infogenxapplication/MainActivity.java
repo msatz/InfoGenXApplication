@@ -26,7 +26,7 @@ import com.google.android.youtube.player.YouTubePlayerFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    public static final String API_KEY = "AIzaSyCJVFSIzx8zw8QJGh1lXnmYDL2xpMpLIMY";
+    public static final String API_KEY = "";
     Button noitfy_button;
 
 
